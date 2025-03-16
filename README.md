@@ -27,4 +27,8 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunji-Yun&layout=compact&bg_color=180,00000000,ffffff&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :computer: Project </h2> 
+        <div align= "center">  </div> 
+    </div>
     
