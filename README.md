@@ -1,22 +1,20 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6f91,100:ffe9ee&height=240&text=Yunji's%20GitHub&animation=fadeIn&fontColor=bf255f&fontSize=60" />
    
-## 🍒 Hello, I'm Yunji! 🍒
-<br>
+# 🍒 Hello, I'm Yunji! 🍒
 
-<div align="left">
-    
 🦁 **LikeLion Univ** 11th FE 아기사자 | 12th 운영진 <br>
 🌐 **UMC** 7th Spring Boot Challenger | 8th Web 운영진 <br>
-☁️ **9oormthon Univ** 4th FE <br>
 🎓 **한이음 멘토링** 2024 **`오메`**, **`엣지`** 참여| 2025 **`리뷰잇`** 참여 <br>
+☁️ **9oormthon Univ** 4th FE <br>
 📁 **Portfolio** [Click!](https://galvanized-honey-31c.notion.site/24ab053ae3888025a41fcd17e4aec3ed)
+<br>
+<br>
 </div>
+<hr>
 <br>
 
 ## 🛠️ Tech Stacks 🛠️
-
-<div align="left">
     
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -44,7 +42,6 @@
 ### UI/UX
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-</div>
 <br>
     
 ## 🚀 GitHub Stats 🚀
@@ -58,7 +55,6 @@
 <br>
 
 ## 🌟 Projects 🌟
-<div align="left">
     
 ### 2025
 
@@ -85,7 +81,5 @@
 | [**HEALTH BRIDGE**](https://github.com/2023-likelion-hackathon-Team3) | 2023 멋쟁이사자처럼 중앙 해커톤 | `HTML` `CSS` `JS` |
 | [**별천지**](https://github.com/2023-HERETHON/2023-Herethon-3) | 2023 여기톤 : HERETHON | `HTML` `CSS` `JS` |
 | [**toDD**](https://github.com/2023-InternetProgramming-Team1) | 인터넷 프로그래밍 팀 프로젝트 | `Django` `BootStrap` |
-</div>
-<br>
 
-</div>
+<br>
