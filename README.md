@@ -13,6 +13,8 @@
 </div>
 <br>
 
+---
+
 ## 🛠️ Tech Stacks 🛠️
     
 ### Frontend
@@ -41,8 +43,8 @@
 ### UI/UX
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-<br>
-    
+---
+
 ## 🚀 GitHub Stats 🚀
 <br>
 <div align="center">
@@ -51,7 +53,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunji-Yun&layout=compact&title_color=ff4f79&text_color=333333&bg_color=ffffff" width="42%"/>
 
 </div>
-<br>
+
+---
 
 ## 🌟 Projects 🌟
     
