@@ -66,18 +66,19 @@
 | Name        | Description        | Tech Stack               |
 | :--------- | :---------------- | :----------------------- |
 | [**PUPPYMODE**](https://github.com/PuppyMode-org) | 게이미피케이션 기반 음주 습관 교정 플랫폼 **🏆 최우수상** | `Spring Boot` |
+| [**분리특공대**](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_75_FE) | AI 기반 맞춤형 분리수거 서비스 **🏆 대상** | `React` |
 
 ### 2024
 
 | Name        | Description        | Tech Stack               |
 | :--------- | :---------------- | :----------------------- |
 | [**찬란**](https://github.com/2024-LIKELION-DS/DSFest_FE) | 2024 덕성여자대학교 근화제 '찬란' 웹사이트 | `React` |
-| [**POKSIN**](https://github.com/TeamViewMore) | 2024 멋쟁이사자처럼 중앙 해커톤, 어흥콘 **🏆 참신상 대상, 베스트 회고상** | `React`|
+| [**POKSIN**](https://github.com/TeamViewMore) | 2024 멋쟁이사자처럼 중앙 해커톤, 어흥콘 **🏆 참신상 대상, 베스트 회고상** | `React` |
 | [**SIXPEC**](https://github.com/likelion12th-trendition) | 멋쟁이사자처럼 트렌디톤 **🏆 우수상** | `React`|
-| [**합격자 조회 사이트**](https://github.com/2024-LIKELION-DS/2024-BABYLION-Frontend) | 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회 사이트 | `React`|
-| [**OHMEA**](https://github.com/Bamsongee) | 2024 한이음 ICT 공모전 | `SpringBoot` `React`|
-| [**EDGE**](https://github.com/2024-Edge) | 2024 한이음 ICT 공모전 | `SpringBoot` `Arduino`|
-| [**BOOKIN**](https://github.com/DS-UMC-7th/UMC-7th-TEAM-IOS-BE) | UMC 7기 사이드 프로젝트 | `SpringBoot`|
+| [**합격자 조회 사이트**](https://github.com/2024-LIKELION-DS/2024-BABYLION-Frontend) | 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회 사이트 | `React` |
+| [**OHMEA**](https://github.com/Bamsongee) | 2024 한이음 ICT 공모전 | `SpringBoot` `React` |
+| [**EDGE**](https://github.com/2024-Edge) | 2024 한이음 ICT 공모전 | `SpringBoot` `Arduino` |
+| [**BOOKIN**](https://github.com/DS-UMC-7th/UMC-7th-TEAM-IOS-BE) | UMC 7기 사이드 프로젝트 | `SpringBoot` |
 
 ### 2023
 
