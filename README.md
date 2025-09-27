@@ -6,7 +6,7 @@
 | 활동 | 내용 |
 | :--- | :--- |
 | 🦁 **LikeLion Univ** | 11th FE 아기사자 \| 12th 교육팀 소속 운영진 |
-| 🌐 **UMC** | 7th Spring Boot Challenger \| 8th Web 파트장 운영진 |
+| 🌐 **UMC** | 7th Spring Boot Challenger \| 8th, 9th Web 파트장 운영진 |
 | 🎓 **한이음 멘토링** | 2024 **`오메`**, **`엣지`** 참여 \| 2025 **`리뷰잇`** 참여 |
 | ☁️ **9oormthon Univ** | 4th FE 미르미 |
 | 📁 **Portfolio** | [Click!](https://galvanized-honey-31c.notion.site/24ab053ae3888025a41fcd17e4aec3ed) |
@@ -65,8 +65,9 @@
 
 | Name        | Description        | Tech Stack               |
 | :--------- | :---------------- | :----------------------- |
-| [**PUPPYMODE**](https://github.com/PuppyMode-org) | 게이미피케이션 기반 음주 습관 교정 플랫폼 **🏆 최우수상** | `Spring Boot` |
-| [**분리특공대**](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_75_FE) | AI 기반 맞춤형 분리수거 서비스 **🏆 대상** | `React` |
+| [**PUPPYMODE**](https://github.com/PuppyMode-org) | UMC 7th Demo Day **🏆 최우수상** | `Spring Boot` |
+| [**자자자**](https://github.com/JA-yeong-eop-JA-moeu-JA/Jajaja_BE) | UMC 8th Demo Day | `Spring Boot` |
+| [**분리특공대**](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_75_FE) | 2025 kakao X 9oorm 시즌톤 **🏆 대상** | `React` |
 
 ### 2024
 
