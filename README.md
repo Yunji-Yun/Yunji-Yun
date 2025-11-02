@@ -9,7 +9,6 @@
 | 🌐 **UMC** | 7th Spring Boot Challenger \| 8th, 9th Web 파트장 운영진 |
 | 🎓 **한이음 멘토링** | 2024 **`오메`**, **`엣지`** 참여 \| 2025 **`리뷰잇`** 참여 |
 | ☁️ **9oormthon Univ** | 4th FE 미르미 |
-| 📁 **Portfolio** | [Click!](https://galvanized-honey-31c.notion.site/24ab053ae3888025a41fcd17e4aec3ed) |
 
 <br>
 <br>
