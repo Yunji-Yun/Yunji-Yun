@@ -67,6 +67,7 @@
 | [**PUPPYMODE**](https://github.com/PuppyMode-org) | UMC 7th Demo Day **🏆 최우수상** | `Spring Boot` |
 | [**자자자**](https://github.com/JA-yeong-eop-JA-moeu-JA/Jajaja_BE) | UMC 8th Demo Day | `Spring Boot` |
 | [**분리특공대**](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_75_FE) | 2025 kakao X 9oorm 시즌톤 **🏆 대상** | `React` |
+| [**리뷰잇**](https://github.com/Revu-IT) | 2025 한이음 드림업 공모전 **🏆 장려상** | `FastAPI` |
 
 ### 2024
 
