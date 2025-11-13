@@ -79,7 +79,7 @@
 | [**합격자 조회 사이트**](https://github.com/2024-LIKELION-DS/2024-BABYLION-Frontend) | 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회 사이트 | `FE` |
 | [**OHMEA**](https://github.com/Bamsongee) | 2024 한이음 ICT 공모전 | `FE` `BE` |
 | [**EDGE**](https://github.com/2024-Edge) | 2024 한이음 ICT 공모전 | `BE` |
-| [**BOOKIN**](https://github.com/DS-UMC-7th/UMC-7th-TEAM-IOS-BE) | UMC 7기 사이드 프로젝트 | `BE` |
+| [**BOOKIN**](https://github.com/DS-UMC-7th/UMC-7th-TEAM-IOS-BE) | UMC 7th 사이드 프로젝트 | `BE` |
 
 ### 2023
 
