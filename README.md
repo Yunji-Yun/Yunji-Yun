@@ -62,7 +62,7 @@
     
 ### 2025
 
-| Name        | Description        | Position               |
+| Name        | Description        | Role               |
 | :--------- | :---------------- | :----------------------- |
 | [**PUPPYMODE**](https://github.com/PuppyMode-org) | UMC 7th Demo Day **🏆 최우수상** | `BE` |
 | [**자자자**](https://github.com/JA-yeong-eop-JA-moeu-JA/Jajaja_BE) | UMC 8th Demo Day | `BE` |
@@ -71,7 +71,7 @@
 
 ### 2024
 
-| Name        | Description        | Position               |
+| Name        | Description        | Role               |
 | :--------- | :---------------- | :----------------------- |
 | [**찬란**](https://github.com/2024-LIKELION-DS/DSFest_FE) | 2024 덕성여자대학교 근화제 '찬란' 웹사이트 | `FE` |
 | [**POKSIN**](https://github.com/TeamViewMore) | 2024 멋쟁이사자처럼 중앙 해커톤, 어흥콘 **🏆 참신상 대상, 베스트 회고상** | `FE` |
@@ -83,7 +83,7 @@
 
 ### 2023
 
-| Name        | Description        | Position               |
+| Name        | Description        | Role               |
 | :--------- | :---------------- | :----------------------- |
 | [**HEALTH BRIDGE**](https://github.com/2023-likelion-hackathon-Team3) | 2023 멋쟁이사자처럼 중앙 해커톤 | `FE` |
 | [**별천지**](https://github.com/2023-HERETHON/2023-Herethon-3) | 2023 여기톤 : HERETHON | `FE` |
