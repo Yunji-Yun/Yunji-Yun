@@ -64,29 +64,29 @@
 
 | Name        | Description        | Tech Stack               |
 | :--------- | :---------------- | :----------------------- |
-| [**PUPPYMODE**](https://github.com/PuppyMode-org) | UMC 7th Demo Day **🏆 최우수상** | `Spring Boot` |
-| [**자자자**](https://github.com/JA-yeong-eop-JA-moeu-JA/Jajaja_BE) | UMC 8th Demo Day | `Spring Boot` |
-| [**분리특공대**](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_75_FE) | 2025 kakao X 9oorm 시즌톤 **🏆 대상** | `React` |
-| [**리뷰잇**](https://github.com/Revu-IT) | 2025 한이음 드림업 공모전 **🏆 장려상** | `FastAPI` |
+| [**PUPPYMODE**](https://github.com/PuppyMode-org) | UMC 7th Demo Day **🏆 최우수상** | `BE` |
+| [**자자자**](https://github.com/JA-yeong-eop-JA-moeu-JA/Jajaja_BE) | UMC 8th Demo Day | `BE` |
+| [**분리특공대**](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_75_FE) | 2025 kakao X 9oorm 시즌톤 **🏆 대상** | `FE` |
+| [**리뷰잇**](https://github.com/Revu-IT) | 2025 한이음 드림업 공모전 **🏆 장려상** | `BE` |
 
 ### 2024
 
 | Name        | Description        | Tech Stack               |
 | :--------- | :---------------- | :----------------------- |
-| [**찬란**](https://github.com/2024-LIKELION-DS/DSFest_FE) | 2024 덕성여자대학교 근화제 '찬란' 웹사이트 | `React` |
-| [**POKSIN**](https://github.com/TeamViewMore) | 2024 멋쟁이사자처럼 중앙 해커톤, 어흥콘 **🏆 참신상 대상, 베스트 회고상** | `React` |
-| [**SIXPEC**](https://github.com/likelion12th-trendition) | 멋쟁이사자처럼 트렌디톤 **🏆 우수상** | `React`|
-| [**합격자 조회 사이트**](https://github.com/2024-LIKELION-DS/2024-BABYLION-Frontend) | 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회 사이트 | `React` |
-| [**OHMEA**](https://github.com/Bamsongee) | 2024 한이음 ICT 공모전 | `SpringBoot` `React` |
-| [**EDGE**](https://github.com/2024-Edge) | 2024 한이음 ICT 공모전 | `SpringBoot` `Arduino` |
-| [**BOOKIN**](https://github.com/DS-UMC-7th/UMC-7th-TEAM-IOS-BE) | UMC 7기 사이드 프로젝트 | `SpringBoot` |
+| [**찬란**](https://github.com/2024-LIKELION-DS/DSFest_FE) | 2024 덕성여자대학교 근화제 '찬란' 웹사이트 | `FE` |
+| [**POKSIN**](https://github.com/TeamViewMore) | 2024 멋쟁이사자처럼 중앙 해커톤, 어흥콘 **🏆 참신상 대상, 베스트 회고상** | `FE` |
+| [**SIXPEC**](https://github.com/likelion12th-trendition) | 멋쟁이사자처럼 트렌디톤 **🏆 우수상** | `FE`|
+| [**합격자 조회 사이트**](https://github.com/2024-LIKELION-DS/2024-BABYLION-Frontend) | 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회 사이트 | `FE` |
+| [**OHMEA**](https://github.com/Bamsongee) | 2024 한이음 ICT 공모전 | `BE` `FE` |
+| [**EDGE**](https://github.com/2024-Edge) | 2024 한이음 ICT 공모전 | `BE` |
+| [**BOOKIN**](https://github.com/DS-UMC-7th/UMC-7th-TEAM-IOS-BE) | UMC 7기 사이드 프로젝트 | `BE` |
 
 ### 2023
 
 | Name        | Description        | Tech Stack               |
 | :--------- | :---------------- | :----------------------- |
-| [**HEALTH BRIDGE**](https://github.com/2023-likelion-hackathon-Team3) | 2023 멋쟁이사자처럼 중앙 해커톤 | `HTML` `CSS` `JS` |
-| [**별천지**](https://github.com/2023-HERETHON/2023-Herethon-3) | 2023 여기톤 : HERETHON | `HTML` `CSS` `JS` |
-| [**toDD**](https://github.com/2023-InternetProgramming-Team1) | 인터넷 프로그래밍 팀 프로젝트 | `Django` `BootStrap` |
+| [**HEALTH BRIDGE**](https://github.com/2023-likelion-hackathon-Team3) | 2023 멋쟁이사자처럼 중앙 해커톤 | `FE` |
+| [**별천지**](https://github.com/2023-HERETHON/2023-Herethon-3) | 2023 여기톤 : HERETHON | `FE` |
+| [**toDD**](https://github.com/2023-InternetProgramming-Team1) | 인터넷 프로그래밍 팀 프로젝트 | `BE` `FE` |
 
 <br>
